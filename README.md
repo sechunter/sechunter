@@ -5,8 +5,6 @@
 
 - 👨‍💻 You can also check out my [blog](https://sechunter.medium.com)
 - 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me **samcoolzhacker@gmail.com**
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and reading books
 
 <hr>
